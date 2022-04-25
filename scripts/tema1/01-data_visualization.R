@@ -1,4 +1,4 @@
-#Data Visualization - 11 de Mayo de 2018
+#Data Visualization - Curso tomado por Lautaro Ghezan
 library(tidyverse)
 
 #tidyverse 1.2.1 ──
