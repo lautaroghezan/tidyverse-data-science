@@ -1,9 +1,9 @@
-#Data Visualization - Curso tomado por Lautaro Ghezan 25 04 2022
+#Data Visualization - Curso tomado por Lautaro Ghezan 25 04 2022 lalal
 library(tidyverse)
 
 #tidyverse 1.2.1 ──
 #✔ ggplot2 2.2.1     ✔ purrr   0.2.4
-#✔ tibble  1.4.2     ✔ dplyr   0.7.4
+#✔ tibble  1.4.2     ✔ dplyr   0.7.4 
 #✔ tidyr   0.8.0     ✔ stringr 1.3.1
 #✔ readr   1.1.1     ✔ forcats 0.3.0
 
